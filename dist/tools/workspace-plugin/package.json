@@ -1,0 +1,11 @@
+{
+  "name": "@graphql-code-generator-plugins/workspace-plugin",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "generators": "./generators.json",
+  "peerDependencies": {
+    "tslib": "2.5.0"
+  },
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts"
+}
